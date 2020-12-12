@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -11,13 +14,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="810c6caa-e54f-48b7-ab2b-12c4b5141c58" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Laboutique.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Laboutique.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/product/product.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/db0d1ab3-04d4-4b75-a1d1-92205b538f50.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/db0d1ab3-04d4-4b75-a1d1-92205b538f50.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/Admin/DashboardController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Admin/DashboardController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/layout/_nav.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout/_nav.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,6 +162,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="DEFAULT" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -176,7 +178,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607717774071</updated>
-      <workItem from="1607717775111" duration="16307000" />
+      <workItem from="1607717775111" duration="22550000" />
     </task>
     <servers />
   </component>
@@ -199,6 +201,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607721854189" />
+    <state x="1245" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1607737980062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="205" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607737980062" />
     <state x="1170" y="278" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1607730789883">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -207,9 +213,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="211" height="457" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1607722053360" />
-    <state x="1103" y="230" key="search.everywhere.popup" timestamp="1607728977913">
+    <state x="1274" y="447" key="NewPhpFileDialog" timestamp="1607737877789">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="230" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607728977913" />
+    <state x="1274" y="447" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607737877789" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1607739149397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607739149397" />
   </component>
 </project>
