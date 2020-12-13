@@ -23,11 +23,13 @@
 .nav-item{
     color: white;
 }
+body{
+    position: relative;
+}
 
 .footer-custom{
     text-align: center;
-    position: fixed;
-    bottom: 0;
+    position: absolute;
     width: 100%;
     background-color: #dfeaff;
     padding-top: 0px;
@@ -52,6 +54,6 @@
     font-size: 15px;
     font-weight: bold;
 }
-.product{
-    margin-bottom: 125px;
+.product-container{
+    margin-bottom: 150px;
 }
