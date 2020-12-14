@@ -14,15 +14,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="810c6caa-e54f-48b7-ab2b-12c4b5141c58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Classe/Cart.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classe/Search.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Form/SearchType.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/db0d1ab3-04d4-4b75-a1d1-92205b538f50.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/db0d1ab3-04d4-4b75-a1d1-92205b538f50.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ProductController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repository/ProductRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repository/ProductRepository.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/product/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/product/index.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/product/product.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/product/product.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classe/Cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classe/Cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/CartController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/CartController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/cart/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/cart/index.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +178,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607717774071</updated>
       <workItem from="1607717775111" duration="22646000" />
-      <workItem from="1607816744215" duration="4955000" />
+      <workItem from="1607816744215" duration="5031000" />
+      <workItem from="1607862168899" duration="3292000" />
     </task>
     <servers />
   </component>
